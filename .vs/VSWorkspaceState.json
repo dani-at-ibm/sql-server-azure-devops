@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SqlServerDatabase"
   ],
+  "SelectedNode": "\\SqlServerDatabase\\Import Schema Logs",
   "PreviewInSolutionExplorer": false
 }
