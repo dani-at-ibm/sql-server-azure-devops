@@ -21,3 +21,8 @@ steps:
 - task: VSBuild@1
   inputs:
     solution: '**\*.sln'
+    
+- task: PublishBuildArtifacts@1
+  inputs:
+    pathToPublish: '$(Build.ArtifactStagingDirectory)'
+    artifactName: drop
