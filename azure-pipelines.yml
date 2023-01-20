@@ -22,7 +22,7 @@ steps:
   inputs:
     solution: '**\*.sln'
     
-- task: CopyFiles@2
+- task: CopyFiles@1
   inputs:
     targetFolder: '$(Build.ArtifactStagingDirectory)' 
     
