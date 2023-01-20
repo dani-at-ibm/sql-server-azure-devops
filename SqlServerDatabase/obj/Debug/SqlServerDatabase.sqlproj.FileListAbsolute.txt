@@ -1,6 +1,0 @@
-C:\Users\P102O3PH1\source\repos\SqlServerDatabase\SqlServerDatabase\bin\Debug\SqlServerDatabase.dacpac
-C:\Users\P102O3PH1\source\repos\SqlServerDatabase\SqlServerDatabase\bin\Debug\SqlServerDatabase.dll
-C:\Users\P102O3PH1\source\repos\SqlServerDatabase\SqlServerDatabase\bin\Debug\SqlServerDatabase.pdb
-C:\Users\P102O3PH1\source\repos\SqlServerDatabase\SqlServerDatabase\obj\Debug\SqlServerDatabase.sqlproj.AssemblyReference.cache
-C:\Users\P102O3PH1\source\repos\SqlServerDatabase\SqlServerDatabase\obj\Debug\SqlServerDatabase.dll
-C:\Users\P102O3PH1\source\repos\SqlServerDatabase\SqlServerDatabase\obj\Debug\SqlServerDatabase.pdb
